@@ -1,0 +1,2 @@
+income,Kerja,200000.0
+expense,Makan,20000.0
